@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import AssociativeArray from "./components/AssociativeArray";
+import AssociativeArray from "./components/08/AssociativeArray";
 
 function App() {
   return (

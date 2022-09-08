@@ -20,7 +20,6 @@ let user = {id: 104, name: 'Roma'}
 
     return (
         <div>a</div>
-
     )
 }
 
